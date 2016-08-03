@@ -1,0 +1,14 @@
+name: Sindicato de Trabajadores del Instituto Mexicano de Tecnología del Agua
+layout_spectrum: 0.7188248181619507
+typography_spectrum: 0.013303295203488053
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.4206756386841325
+  lightness: 0.27031678833957407
+  saturation: 0.300067458965098
+  rhythmicContrast: 0.09194292236471457
